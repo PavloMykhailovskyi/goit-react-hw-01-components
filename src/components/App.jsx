@@ -8,7 +8,7 @@ import friends from "../friends.json"
 import transactions from "../transactions.json";
 
 
-console.log(data);
+
 export const App = () => {
   return (
     <div>
